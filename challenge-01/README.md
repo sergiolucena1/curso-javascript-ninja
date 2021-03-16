@@ -8,7 +8,6 @@ var myvar;
 myvar = 10 
 
 // Declare uma nova variável chamada `soma`, e adicione uma instrução somando os valores 15 e 8.
-Uncaught SyntaxError: Unexpected token '+'
 > function soma (x, y) {
 ... return x + y ;
 ... }
